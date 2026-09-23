@@ -1,0 +1,14 @@
+EVENT-EMMITER
+--------------
+to initialize backend open terminal and enter "npm init -y"
+in package.json change type to module
+
+===========================================================
+
+NEW-EVENT-LOOP
+--------------
+Set timeout: used for delay the command.
+if no timeout is used the output will be the top priority (syncronous). Hence will be printed first.
+
+===========================================================
+
